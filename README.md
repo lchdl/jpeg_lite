@@ -6,5 +6,5 @@ Simple baseline JPEG image IO utility.
 * Only supports Huffman encoded baseline DCT JPEGs. Progressive, arithmetic JPEGs are currently not supported.
 
 ## How to use
-  Simply copy all the header and source files in your project folder.
+  Simply copy all the header and source files in your project folder. Detailed instructions are given in the header file (jpeg_lite.h)
 
